@@ -1,7 +1,11 @@
 # directory
 .idea
-.idea/**
 target
+*.iml
+/*.iml
+/**/.idea
+/**/target
+/**/*.iml
 
 # file
 LICENSE
